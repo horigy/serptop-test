@@ -1,0 +1,7 @@
+<svg id="Сгруппировать_4" data-name="Сгруппировать 4" xmlns="http://www.w3.org/2000/svg" width="54" height="55" viewBox="0 0 54 55">
+  <g id="Эллипс_14" data-name="Эллипс 14" transform="translate(54 55) rotate(180)" fill="none" stroke="#fff" stroke-width="2">
+    <ellipse cx="27" cy="27.5" rx="27" ry="27.5" stroke="none"/>
+    <ellipse cx="27" cy="27.5" rx="26" ry="26.5" fill="none"/>
+  </g>
+  <path id="Многоугольник_3" data-name="Многоугольник 3" d="M6.619,1.645a1,1,0,0,1,1.763,0l5.83,10.882A1,1,0,0,1,13.33,14H1.67a1,1,0,0,1-.881-1.472Z" transform="translate(36 20) rotate(90)" fill="#fff"/>
+</svg>
